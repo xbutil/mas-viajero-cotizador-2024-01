@@ -1406,6 +1406,29 @@ a {
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
+@media (min-width: 767px) {
+  .cid-tU4PL6dKXn .ax-mas-cotizador {
+    position: absolute;
+    top: 82px;
+    width: 1180px;
+    left: 0;
+    right: 0;
+    margin: 0px auto;
+  }
+}
+@media (min-width: 767px) {
+  .cid-tU4PL6dKXn .ax-mas-cotizador-box {
+    background: #fffb;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 41px;
+    width: 969px;
+    left: 0;
+    right: 0;
+    margin: 0px auto;
+  }
+}
 .cid-tU4PL6dKXn .carousel,
 .cid-tU4PL6dKXn .carousel-inner {
   display: flex;
